@@ -338,12 +338,12 @@ img {
     color: #E55473;
 }
 
-.footer .footer-container {
+.footer .footer-area {
     max-width: 550px;
     text-align: center;
 }
 
-.footer .footer-container p {
+.footer .footer-area p {
     margin-bottom: 30px;
 }
 
