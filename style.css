@@ -8,11 +8,7 @@ body {
 .text-primary {
     color: #272727;
 }
-.button-primary:hover{
-    background: gray;
-    color: #272727;
-    cursor: pointer;
-}
+
 .button-primary {
     padding: 13px 21px;
     background-image: linear-gradient(to bottom right, #e03311, #e765a0);
